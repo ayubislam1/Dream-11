@@ -1,0 +1,190 @@
+[
+	{
+		"id": 1,
+		"img": "https://www.cricadium.com/wp-content/uploads/2023/05/ICC-660-696x398.webp",
+		"name": "Virat Kohli",
+		"teamName": "India",
+		"category": "Batsman",
+		"type": {
+			"bat": "Right-hand Bat"
+		},
+		"price": 12500000,
+		"rating": "Rating"
+	},
+	{
+		"id": 2,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-MeP45a91MQtuItiUScYuE-O-LiW8xr87g&s",
+		"name": "MS Dhoni",
+		"teamName": "India",
+		"category": "Wicketkeeper Batsman",
+		"type": {
+			"bat": "Right-hand Bat"
+		},
+		"price": 10000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 3,
+		"img": "https://documents.iplt20.com/ipl/IPLHeadshot2024/9.png",
+		"name": "Jasprit Bumrah",
+		"teamName": "India",
+		"category": "Bowler",
+		"type": {
+			"bat": "Right-hand Bat",
+			"ball": "Pacer"
+		},
+		"price": 11000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 4,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYdY_K-m5XPblXaOy8CkR3VuvkrhyKFcxGA&s",
+		"name": "Shakib Al Hasan",
+		"teamName": "Bangladesh",
+		"category": "All-rounder",
+		"type": {
+			"bat": "Left-hand Bat",
+			"ball": "Spin"
+		},
+		"price": 15000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 5,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGP94mjkJXEueiyYgXFY8sGB3JcngAFUP_g&s",
+		"name": "Tamim Iqbal",
+		"teamName": "Bangladesh",
+		"category": "Batsman",
+		"type": {
+			"bat": "Left-hand Bat"
+		},
+		"price": 8500000,
+		"rating": "Rating"
+	},
+	{
+		"id": 6,
+		"img": "https://c.ndtvimg.com/2022-05/qeuubv7o_ben-stokes-afp_625x300_03_May_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+		"name": "Ben Stokes",
+		"teamName": "England",
+		"category": "All-rounder",
+		"type": {
+			"bat": "Left-hand Bat",
+			"ball": "Pacer"
+		},
+		"price": 17500000,
+		"rating": "Rating"
+	},
+	{
+		"id": 7,
+		"img": "https://documents.iplt20.com/ipl/IPLHeadshot2024/218.png",
+		"name": "Rashid Khan",
+		"teamName": "Afghanistan",
+		"category": "Bowler",
+		"type": {
+			"bat": "Right-hand Bat",
+			"ball": "Spin"
+		},
+		"price": 9500000,
+		"rating": "Rating"
+	},
+	{
+		"id": 8,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxpM-o1rc7j06q_yeFR_r6np9nyqWyGNlnIw&s",
+		"name": "Kane Williamson",
+		"teamName": "New Zealand",
+		"category": "Batsman",
+		"type": {
+			"bat": "Right-hand Bat"
+		},
+		"price": 8000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 9,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUqlxGyhNpM6fPprjJhEGK2Xxf3JM7juqvw&s",
+		"name": "Pat Cummins",
+		"teamName": "Australia",
+		"category": "Bowler",
+		"type": {
+			"bat": "Right-hand Bat",
+			"ball": "Pacer"
+		},
+		"price": 14000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 10,
+		"img": "https://documents.iplt20.com/ipl/IPLHeadshot2024/141.png",
+		"name": "Andre Russell",
+		"teamName": "West Indies",
+		"category": "All-rounder",
+		"type": {
+			"bat": "Right-hand Bat",
+			"ball": "Pacer"
+		},
+		"price": 16000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 11,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVvgIxoJNK-UGI4yjsvYYVRyjgivG2gCTQA&s",
+		"name": "Steve Smith",
+		"teamName": "Australia",
+		"category": "Batsman",
+		"type": {
+			"bat": "Right-hand Bat"
+		},
+		"price": 12000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 12,
+		"img": "https://opt.toiimg.com/recuperator/img/toi/m-69268984/69268984.jpg",
+		"name": "Quinton de Kock",
+		"teamName": "South Africa",
+		"category": "Wicketkeeper Batsman",
+		"type": {
+			"bat": "Left-hand Bat"
+		},
+		"price": 9000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 13,
+		"img": "https://e0.365dm.com/23/11/1600x900/skysports-mitchell-starc-south-africa-vs-australia_6362250.jpg?20231116090543",
+		"name": "Mitchell Starc",
+		"teamName": "Australia",
+		"category": "Bowler",
+		"type": {
+			"bat": "Left-hand Bat",
+			"ball": "Pacer"
+		},
+		"price": 15000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 14,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeYy7u-WdLMB1fYZK_GCSwmzpL8JVZ8xyOw&s",
+		"name": "Babar Azam",
+		"teamName": "Pakistan",
+		"category": "Batsman",
+		"type": {
+			"bat": "Right-hand Bat"
+		},
+		"price": 10000000,
+		"rating": "Rating"
+	},
+	{
+		"id": 15,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzG069cmkSYuoslaR1JYsytj5v8jpd9Y_Ug&s",
+		"name": "Trent Boult",
+		"teamName": "New Zealand",
+		"category": "Bowler",
+		"type": {
+			"bat": "Left-hand Bat",
+			"ball": "Pacer"
+		},
+		"price": 12500000,
+		"rating": "Rating"
+	}
+]
